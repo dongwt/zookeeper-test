@@ -7,6 +7,7 @@ import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.junit.Before;
 import org.junit.Test;
 
+
 public class ConnectTest {
 
     private String connectString = "192.168.188.129";
